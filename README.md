@@ -1,4 +1,4 @@
-## Hey <img alt="Night Coding" src="./assets/Hand_Wave.gif" style="width: 30px"/>, This is Valery!
+## Hey, This is Valery!
 
 ### 👨🏻‍💻 &nbsp;My Resume <a download href="./assets/resume.pdf">download 💾</a>
 
