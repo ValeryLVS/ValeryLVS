@@ -1,6 +1,4 @@
-## Hey, This is Valery!
-
-### 👨🏻‍💻 &nbsp;My Resume <a download href="./assets/resume.pdf">download 💾</a>
+## Hey, This is Valery! 👨🏻‍💻
 
 ### 🛠 &nbsp; Skills
 - PHP, Laravel, 1C Bitrix, Bitrix 24;
